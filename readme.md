@@ -61,7 +61,7 @@ License: The project is licensed under MIT, ensuring freedom for usage and modif
 For starting this project , you follow `https://tsoa-community.github.io/docs/getting-started.html` ,it can help to complete tsoa open api project. 
 
 
-and I highly recommended to go through this link for basic knowledge.
+and I highly recommended to go through this link`https://www.linkedin.com/pulse/unveiling-power-tsoa-swagger-ui-crafting-exceptional-api-kumar/` for basic knowledge.
 
 
 
