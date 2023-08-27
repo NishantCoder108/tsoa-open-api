@@ -1,15 +1,6 @@
-import {
-  Body,
-  Controller,
-  Get,
-  Path,
-  Post,
-  Query,
-  Route,
-  SuccessResponse,
-} from "tsoa";
+import { Controller, Get, Path, Route } from "tsoa";
 import { Todo } from "./todo";
-import { TodoCreationParams, TodosService } from "./todoService";
+import { TodosService } from "./todoService";
 
 @Route("todo")
 export class TodoController extends Controller {

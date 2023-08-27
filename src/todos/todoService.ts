@@ -13,7 +13,7 @@ export class TodosService {
     };
   }
 
-  public create(todoCreationParams: TodoCreationParams): Todo {
+  public create(_todoCreationParams: TodoCreationParams): Todo {
     console.log("Rock DB is call");
 
     return {
